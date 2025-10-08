@@ -6,5 +6,6 @@
 	"separateMajorMinor": true,
 	"separateMinorPatch": true,
 	"branchConcurrentLimit": 0,
-	"prConcurrentLimit": 0
+	"prConcurrentLimit": 0,
+	"prHourlyLimit": 100
 }
