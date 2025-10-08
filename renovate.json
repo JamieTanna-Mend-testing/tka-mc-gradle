@@ -4,5 +4,7 @@
 		"mergeConfidence:all-badges"
 	],
 	"separateMajorMinor": true,
-	"separateMinorPatch": true
+	"separateMinorPatch": true,
+	"branchConcurrentLimit": 0,
+	"prConcurrentLimit": 0
 }
